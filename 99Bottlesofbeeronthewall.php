@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>99 bottles<title>
+    <title>99 bottles title here<title>
 </head>
 <body>
 <?php
@@ -22,5 +22,3 @@ for ($bottles = 99; $bottles >= 1; $bottles--) {
 ?>
 </body>
 </html>
-
-$Lbim2201
