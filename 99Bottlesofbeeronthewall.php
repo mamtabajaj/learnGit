@@ -20,6 +20,5 @@ for ($bottles = 99; $bottles >= 1; $bottles--) {
     }
 }
 ?>
-
 </body>
 </html>
