@@ -7,7 +7,7 @@
 <?php
 //we start with 99 bottles and keep on decrementing until we get 1 bottles
 //This jut a commit changes
-for ($bottles = 99; $bottles >= 1; $bottles--) {
+for($bottles = 99; $bottles >= 1; $bottles--) {
     if ($bottles > 1) { // we have more than 1 bottles of beer
         echo "$bottles bottles of beer on the wall, $bottles bottles of beer.<br>";
         echo "Take one down, pass it around, " . (($bottles - 1)) . (($bottles - 1) == 1 ? " bottle":" bottles") . " of beer on the wall.<br><br>";
