@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>99 bottles<title>
+</head>
 <body>
-
 <?php
 //we start with 99 bottles and keep on decrementing until we get 1 bottles
 for ($bottles = 99; $bottles >= 1; $bottles--) {
