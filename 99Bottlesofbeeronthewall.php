@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Feature branch<title>
+        <meta>This is meta tags</meta>
 </head>
 <body>
 <?php
