@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Assign new title<title>
+    <title>Feature branch<title>
 </head>
 <body>
 <?php
